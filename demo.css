@@ -1,0 +1,32 @@
+
+
+
+
+
+body{
+background-color:powderblue;
+}
+h1{
+color:white;
+border:1px solid black;
+padding: 0px 50px 75px 0px;
+
+
+background-color:#1f1f1f;
+
+}
+p{
+font-size:25;
+color:blue;
+
+}
+
+article {
+    float: left;
+    padding: 20px;
+    width: 70%;
+    background-color: #f1f1f1;
+    height: 300px; 
+}
+
+
