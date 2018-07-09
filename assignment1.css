@@ -1,0 +1,93 @@
+
+
+
+body{
+
+background-color:lightblue;
+margin: 0;
+
+}
+ 
+h1{
+
+text-align:center;
+color:blue;
+
+
+}
+
+
+
+p{
+
+color:white;
+}
+
+
+
+
+li
+{
+
+float:left;
+
+
+}
+
+
+
+
+
+
+ul{
+
+list-style-type:none;
+border:1px blue solid;
+
+overflow:hidden;
+margin:0;
+background-color:blue;
+
+
+}
+
+
+li a {
+display:block;
+color:white;
+text-align:center;
+padding:20px;
+text-decoration:none;
+
+}
+
+li a:hover{
+
+background-color:#555;
+
+
+}
+
+
+
+
+
+table, th, td{
+
+border:1px solid black;
+border-collapse:collapse;
+padding:10px;
+text-align:left;
+
+}
+
+
+
+footer{
+background-color:#777;
+padding:10px;
+color: white;
+text-align: right;
+
+}
+
