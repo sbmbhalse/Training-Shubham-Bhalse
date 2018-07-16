@@ -1,0 +1,113 @@
+body{
+
+font-family: Arial, Helvetica , sans-serif;
+background-color:blue;
+
+
+}
+
+
+a:link{
+
+
+text-decoration:none;
+}
+
+
+
+
+
+
+hr{
+border: 1px solid #f1f1f1;
+margin-bottom:25px;
+}
+
+
+.signin_dvsn
+{
+
+
+}
+
+
+
+
+div{
+background-color:white;
+border:2px solid #ccc;
+padding:20px 40px 20px 20px;
+width:auto;
+margin:0px 400px 10px 400px;
+}
+
+
+input[type=text], input[type=password],input[type=email]
+{
+width:100%;
+padding:8px;
+margin:5px 0 22px 0;
+background:#f1f1f1;
+display:inline-block;
+}
+
+
+input[type=text]:focus,input[type=password]:focus,input[email]:focus,input[type=list]:focus{
+
+background-color:#ddd;
+outline:none;
+}
+
+
+
+.cancelbtn,.signupbtn{
+
+width:auto;
+position: relative;
+}
+
+
+
+
+
+button{
+background-color:#4caf50;
+color:white;
+border:none;
+padding:14px  20px;
+margin:8px 0px;
+width:100%;
+cursor:pointer;
+opacity:0.9;
+}
+
+
+
+.cancelbtn{
+padding: 14px 20px;
+background-color:#f44336;
+
+}
+
+
+
+
+
+
+
+
+button:hover{
+
+opacity:1;
+}
+
+
+
+@media screen and (max-width:300px)
+{
+   .cancelbtn, .signupbtn{
+
+         width:100%;
+
+      }
+}
